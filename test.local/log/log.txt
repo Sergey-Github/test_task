@@ -1,5 +1,0 @@
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.comment' doesn't exist|14:02:15 20:09:2018
-SQLSTATE[HY000] [1049] Unknown database 'tes'|14:02:34 20:09:2018
-SQLSTATE[HY000] [1049] Unknown database 'tes'|14:13:12 20:09:2018
-SQLSTATE[HY000] [1049] Unknown database 'tet'|14:24:27 20:09:2018
-SQLSTATE[HY000] [1049] Unknown database 'tet'|14:26:43 20:09:2018
